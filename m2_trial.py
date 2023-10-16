@@ -1,1 +1,1 @@
-p
+print("my m2")
